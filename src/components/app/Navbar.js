@@ -28,7 +28,7 @@ function Navbar({ account, network, balanceOf }) {
       <NavbarGroup>
         <NavbarHeading id="brand-name">
           <Link to="/" style={styles.brandName}>
-            Blockchain Mastery University
+            Dapp University Starter Template
           </Link>
         </NavbarHeading>
         <Link to="/">
